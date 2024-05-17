@@ -11,7 +11,7 @@ Microsoft Defender for Endpoint (MDE) is a comprehensive endpoint security solut
 To start using the queries from this repository, follow these steps:
 
 1. Clone the Repository:
-   git clone https://github.com/brayden031/MDE_Advanced_Hunting_Queries.git
+   git clone https://github.com/brayden031/Threat_Hunting_Queries.git
 
 2. Navigate to the Directory:
    cd mde-advanced-hunt-queries
