@@ -14,7 +14,7 @@ To start using the queries from this repository, follow these steps:
    git clone https://github.com/brayden031/Threat_Hunting_Queries.git
 
 2. Navigate to the Directory:
-   cd mde-advanced-hunt-queries
+   cd threat-hunting-queries
 
 3. Review and Import Queries:
    Open any of the .kql files in the queries directory.
