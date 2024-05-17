@@ -1,6 +1,6 @@
-# MDE_Advanced_Hunting_Queries
+# Threat_Hunting_Queries
 
-## KQL queries built for threat hunting malware reports/campaigns
+## Detection queries built for threat hunting malware reports/campaigns
 
 This repo is a collection of advanced Kusto Query Language (KQL) queries specifically designed for use with Microsoft Defender for Endpoint (MDE). These queries are crafted to enhance threat hunting, incident investigation, and overall security monitoring within organizations.
 
